@@ -10,6 +10,3 @@ MMXI-MMXX
 
 Wave OS Web Version - For Tumblr or Personal Website
 https://raw.githubusercontent.com/ioxwavey/waveos/main/waveos.txt
-
-Ubuntu, Deepin Desktop Version
-TBA
